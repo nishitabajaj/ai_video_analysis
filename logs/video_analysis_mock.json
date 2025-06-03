@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": 0.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0000.jpg",
+    "llm_description": "Simulated description for frame_0000.jpg"
+  },
+  {
+    "timestamp": 1.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0001.jpg",
+    "llm_description": "Simulated description for frame_0001.jpg"
+  },
+  {
+    "timestamp": 2.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0002.jpg",
+    "llm_description": "Simulated description for frame_0002.jpg"
+  },
+  {
+    "timestamp": 3.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0003.jpg",
+    "llm_description": "Simulated description for frame_0003.jpg"
+  },
+  {
+    "timestamp": 4.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0004.jpg",
+    "llm_description": "Simulated description for frame_0004.jpg"
+  },
+  {
+    "timestamp": 5.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0005.jpg",
+    "llm_description": "Simulated description for frame_0005.jpg"
+  },
+  {
+    "timestamp": 6.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0006.jpg",
+    "llm_description": "Simulated description for frame_0006.jpg"
+  },
+  {
+    "timestamp": 7.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0007.jpg",
+    "llm_description": "Simulated description for frame_0007.jpg"
+  },
+  {
+    "timestamp": 8.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0008.jpg",
+    "llm_description": "Simulated description for frame_0008.jpg"
+  },
+  {
+    "timestamp": 9.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0009.jpg",
+    "llm_description": "Simulated description for frame_0009.jpg"
+  },
+  {
+    "timestamp": 10.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0010.jpg",
+    "llm_description": "Simulated description for frame_0010.jpg"
+  },
+  {
+    "timestamp": 11.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0011.jpg",
+    "llm_description": "Simulated description for frame_0011.jpg"
+  },
+  {
+    "timestamp": 12.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0012.jpg",
+    "llm_description": "Simulated description for frame_0012.jpg"
+  },
+  {
+    "timestamp": 13.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0013.jpg",
+    "llm_description": "Simulated description for frame_0013.jpg"
+  },
+  {
+    "timestamp": 14.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0014.jpg",
+    "llm_description": "Simulated description for frame_0014.jpg"
+  },
+  {
+    "timestamp": 15.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0015.jpg",
+    "llm_description": "Simulated description for frame_0015.jpg"
+  },
+  {
+    "timestamp": 16.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0016.jpg",
+    "llm_description": "Simulated description for frame_0016.jpg"
+  },
+  {
+    "timestamp": 17.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0017.jpg",
+    "llm_description": "Simulated description for frame_0017.jpg"
+  },
+  {
+    "timestamp": 18.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0018.jpg",
+    "llm_description": "Simulated description for frame_0018.jpg"
+  },
+  {
+    "timestamp": 19.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0019.jpg",
+    "llm_description": "Simulated description for frame_0019.jpg"
+  },
+  {
+    "timestamp": 20.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0020.jpg",
+    "llm_description": "Simulated description for frame_0020.jpg"
+  },
+  {
+    "timestamp": 21.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0021.jpg",
+    "llm_description": "Simulated description for frame_0021.jpg"
+  },
+  {
+    "timestamp": 22.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0022.jpg",
+    "llm_description": "Simulated description for frame_0022.jpg"
+  },
+  {
+    "timestamp": 23.0,
+    "user_activity": "Frame captured from video",
+    "screen_info": "Image file: frame_0023.jpg",
+    "llm_description": "Simulated description for frame_0023.jpg"
+  }
+]
