@@ -3,144 +3,342 @@
     "timestamp": 0.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0000.jpg",
-    "llm_description": "Here's a description of the user action and screen state:\n\n**User Action:** The user is hovering their mouse cursor over the \"Maps\" icon in the Chrome browser's omnibox (address bar).  They haven't clicked it yet; it's just highlighted.\n\n**Screen State:** The screen shows a new tab in Google Chrome. The browser is in its default state with a dark theme. The Google search page is displayed, showing the search bar, Google logo, and \"Add shortcut\" button. The omnibox shows several open tabs, including Google Maps, and a few Jupyter Notebook files. The bookmarks bar is visible with icons for Gmail, Images, and other bookmarks, along with the \"Customize Chrome\" button at the bottom. The overall appearance indicates a clean, uncluttered browsing experience.\n"
+    "llm_description": "The user is typing a search query in the Google search bar.\n"
   },
   {
     "timestamp": 1.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0001.jpg",
-    "llm_description": "The user is on a new tab in Google Chrome.  The screen shows the Google search page. The cursor is hovering over the Google Maps icon in the Chrome toolbar.  No text has been entered into the search bar. The user has not performed any actions beyond opening a new tab."
+    "llm_description": "The user is about to type a search query or URL into the Google search bar.  The screen shows a Google search page.\n"
   },
   {
     "timestamp": 2.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0002.jpg",
-    "llm_description": "The user is viewing a new tab in Google Chrome.  The screen shows a dark-themed Google search page.  There is no text entered in the search bar. The user has not yet performed any search actions.  Multiple tabs are open in the browser; several appear to be Jupyter notebooks.  The user's cursor is visible and not currently interacting with any element on the screen.  The screen is at the default Google search engine page."
+    "llm_description": "The user is typing a search query or URL in the Google search bar.  The screen shows a Google search page.\n"
   },
   {
     "timestamp": 3.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0003.jpg",
-    "llm_description": "The user is viewing a new tab in the Google Chrome browser. The screen shows the Google search homepage.  No search query has been entered. The cursor is hovering over the browser window, not directly interacting with any element on the page.  The user hasn't performed any action yet on this new tab. The screen is in a default, ready-to-search state.\n"
+    "llm_description": "The user is about to type a search query or URL in the Google search bar.  The screen shows a Google search page.\n"
   },
   {
     "timestamp": 4.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0004.jpg",
-    "llm_description": "The user is viewing their Chrome bookmarks in a dark theme.  They have several bookmarks listed, including professional networking sites, educational resources, and a password change link. The user is currently on the \"Add shortcut\" screen, suggesting they may be in the process of adding a new bookmark or app shortcut.  There is no other visible user action beyond this.\n"
+    "llm_description": "The user is about to type a search query or URL into the Google search bar.  The screen shows a Google search page.\n"
   },
   {
     "timestamp": 5.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0005.jpg",
-    "llm_description": "The user is viewing their Chrome browser's bookmarks manager.  The screen shows a list of their bookmarks, including various websites like Talenlio, LinkedIn, YouTube, and others.  The user is currently on the \"Add shortcut\" section which suggests they are in the process of adding a new bookmark or potentially modifying an existing one.  There is no visible user action taking place; the screenshot captures a moment of inactivity within the bookmark manager.\n"
+    "llm_description": "The user is about to type a search query or URL in the Google search bar.  The screen shows a Google search page.\n"
   },
   {
     "timestamp": 6.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0006.jpg",
-    "llm_description": "The user is viewing their Chrome browser's bookmarks in a new tab.  The bookmarks are displayed as a list of URLs, with titles and favicons. The top bookmark shows a website related to data structure practice problems.  The user has potentially just added or is about to add a new shortcut, as indicated by the \"+ Add shortcut\" button. The screen shows a dark theme."
+    "llm_description": "The user is typing a search query or URL in the Google search bar.  The screen shows a new Google Chrome tab.\n"
   },
   {
     "timestamp": 7.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0007.jpg",
-    "llm_description": "The user is viewing their Chrome browser's history and bookmarks.  They have recently searched for various GitHub related terms, including \"github,\" \"github pricing,\" \"github login,\" \"github username,\" and \"ultralytics github.\"  The browser is in a dark theme.  The user is currently on the bookmark manager screen, with the option to \"Add shortcut\" visible. There's no indication of any specific action being taken, beyond browsing the history and bookmarks."
+    "llm_description": "The user is viewing a list of search results and can add a shortcut.\n"
   },
   {
     "timestamp": 8.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0008.jpg",
-    "llm_description": "The user is on a Google Chrome browser's new tab page.  The search bar is in focus and the cursor is near the search bar. There is a list of recent searches visible, all related to \"github.com\".  The user appears to be about to perform a search or enter a URL. The screen shows the Google logo, a search bar with the placeholder text \"Search Google or type a URL\", and an \"Add shortcut\" button.  Multiple browser tabs are open, mostly Jupyter notebooks."
+    "llm_description": "The user is viewing the Google search page and can begin typing a search query in the search bar.\n"
   },
   {
     "timestamp": 9.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0009.jpg",
-    "llm_description": "Here's a description of the user action and screen state in the image:\n\n**Screen State:** The image shows a Google Chrome browser window displaying the Google search homepage.  The theme appears to be dark mode. The address bar shows \"github.com\" as the currently visited site, but the Google search page is displayed.  Multiple tabs are open in the browser, most showing Jupyter Notebook files. The user is logged into a Google account, evidenced by the icons and profile picture at the top right.  The \"Add shortcut\" button indicates that the user might be setting up a shortcut or a new application.\n\n**User Action:** The cursor is hovering over the tab bar just above the Google search bar.  This suggests the user is likely about to either close a tab, open a new tab, or interact with one of the open tabs (e.g., selecting it).  There's no indication of the user having entered any text into the Google search bar.\n"
+    "llm_description": "The user can type in the search bar at the top.  The screen shows a dark-themed GitHub dashboard, currently empty.\n"
   },
   {
     "timestamp": 10.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0010.jpg",
-    "llm_description": "Here's a description of the user action and screen state:\n\n**User Action:** The user has navigated to `github.com` in a Chrome browser, then proceeded to a new tab which displays the Google search page.  There is no visible action being performed at the moment the screenshot was taken.  The mouse cursor is visible, but not interacting with any element on the screen.\n\n**Screen State:** The screen shows a Google Chrome browser window displaying the Google search home page. The address bar shows the current page is a new tab. The top right of the Chrome window shows several icons including bookmarks and profile settings.  The dark theme is enabled in the Chrome browser.  The Google search bar is empty, and the \"Add shortcut\" button is visible.  The address bar shows several other open tabs, all containing `.ipynb` files (likely Jupyter Notebooks)."
+    "llm_description": "The screen shows a GitHub Copilot interface; the user is waiting for a response.\n"
   },
   {
     "timestamp": 11.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0011.jpg",
-    "llm_description": "Here's a description of the user action and screen state:\n\n**User Action:** The user has opened a new tab in their Chrome browser and navigated to `github.com`. The cursor is hovering over the browser tab bar.  The user is currently viewing the Google search page. No search query has been entered yet.\n\n**Screen State:**\n\n* **Browser:** The screen shows a Google Chrome browser window.\n* **URL:** The address bar displays `github.com`.\n* **Google Search Page:** The Google homepage is displayed, showing the Google logo and search bar.  The \"Add shortcut\" button is visible.\n* **Tabs:** Multiple tabs are open in the browser, including several Jupyter Notebook files.  The user's bookmarks are also visible.\n* **Dark Mode:** The browser is in dark mode.\n\n\nIn short, the user has recently visited `github.com` and is now on the Google homepage, ready to perform a search.\n"
+    "llm_description": "The user is browsing their GitHub dashboard, viewing recently starred repositories and recent activity.\n"
   },
   {
     "timestamp": 12.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0012.jpg",
-    "llm_description": "The image shows a Google Chrome browser window displaying a completely black screen.  The address bar shows that github.com is loaded.  There is no other content visible.\n\n**User Action:**  The user has likely just navigated to github.com, and the page is currently loading or there is an error preventing the page from loading.  The mouse cursor is visible, suggesting the user is waiting for the page to load.\n\n**Screen State:** The screen shows a blank/black page after navigating to github.com.  This could indicate a network issue, a problem with the GitHub servers, or a browser-specific problem.  The loading process has not yet completed.\n"
+    "llm_description": "The screen shows a GitHub dashboard; the user is browsing repositories and recent activity.\n"
   },
   {
     "timestamp": 13.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0013.jpg",
-    "llm_description": "The image shows a Google Chrome browser window displaying the GitHub website (github.com).  The page itself is completely black, indicating that the page is either loading very slowly, is experiencing an error, or has a custom dark theme that is not fully loaded yet.  The address bar shows the URL `github.com`.\n\nThe user action is not explicitly shown, but it's implied that the user has either just navigated to `github.com` or is waiting for the website to load.  There is a mouse cursor visible, suggesting the user is actively interacting with the browser, or that it's a screenshot of the browser while the user is waiting.\n\nThe screen state is one of loading or an error condition on the GitHub website within the Google Chrome browser.  The only visible content is the browser's address bar and tab.\n"
+    "llm_description": "The user is browsing their GitHub dashboard, viewing recent activity and trending repositories.\n"
   },
   {
     "timestamp": 14.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0014.jpg",
-    "llm_description": "The user is on the GitHub website, specifically their dashboard.  The screen shows the user's feed is loading (\"One moment please...\") and a list of repositories is shown under the \"Explore repositories\" section. The user hasn't performed any specific action recently, as evidenced by the loading indicator.  The overall state is one of waiting for the feed to load.\n"
+    "llm_description": "The user is searching for a repository on GitHub.  The screen shows the user's GitHub dashboard.\n"
   },
   {
     "timestamp": 15.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0015.jpg",
-    "llm_description": "Here's a description of the user action and screen state in the image:\n\n**User Action:** The user is likely on the GitHub dashboard and has initiated a Copilot action (possibly \"Interpret an architecture diagram,\" \"Create a profile README for me,\" or \"Summarize a pull request\"). The loading indicator (\"One moment please...\") suggests Copilot is processing the request.  There is no visible cursor, suggesting the user is waiting for Copilot to finish.\n\n**Screen State:**\n\n* **GitHub Dashboard:** The user is logged into their GitHub account and viewing their dashboard.  The main content area displays a loading animation.\n* **Copilot Suggestions:**  The top right shows buttons for three Copilot tasks:  interpreting architecture diagrams, creating READMEs, and summarizing pull requests.\n* **Repository Exploration:** The right sidebar shows a list of repositories, allowing the user to explore other projects.  These are displayed with name, description, star count, and programming language.\n* **Dark Theme:** The GitHub interface is in dark mode.\n* **Loading Indicator:** A loading spinner and the text \"One moment please...\" indicate that an action is in progress.  This is likely Copilot performing a task requested by the user.\n\n\nIn short, the user has requested a task from GitHub Copilot and is currently waiting for the tool to complete the process. The dashboard shows a loading screen while Copilot works.\n"
+    "llm_description": "The user is browsing repositories on GitHub.\n"
   },
   {
     "timestamp": 16.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0016.jpg",
-    "llm_description": "Here's a description of the user action and screen state in the image:\n\n**User Action:** The user is likely on the GitHub dashboard, and has just initiated an action through the \"Ask Copilot\" feature.  The system is currently processing the request (either \"Interpret an architecture diagram\" or \"Create a profile README for me\"), as indicated by the loading animation.\n\n**Screen State:**\n\n* **GitHub Dashboard:** The user is viewing their GitHub dashboard, which displays a \"Home\" section and a \"Feed\" section.\n* **Copilot Interaction:** The \"Ask Copilot\" box is visible, implying recent interaction with GitHub Copilot, GitHub's AI coding assistant.\n* **Loading Indicator:** A loading spinner is displayed, indicating that Copilot is processing the user's request.\n* **Explore Repositories:**  The right-hand side shows a section displaying recently updated repositories.  These are suggestions, likely tailored to the user's profile and activity.\n* **Dark Mode:** The interface is in dark mode.\n\n\nIn short, the image captures a moment where the user has requested assistance from GitHub Copilot and is waiting for the response.  The dashboard is otherwise showing typical activity feeds and suggestions.\n"
+    "llm_description": "The screen shows a GitHub repository page with a search bar; the user is likely about to search.\n"
   },
   {
     "timestamp": 17.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0017.jpg",
-    "llm_description": "Here's a description of the user action and screen state in the image:\n\n**User Action:** The user is likely on the GitHub dashboard and has just initiated some action (possibly related to Copilot's \"Interpret an architecture diagram\" or \"Create a profile README for me\" options) which is currently processing.  The mouse cursor is visible, suggesting the user may have just interacted with the interface or is awaiting a response.\n\n**Screen State:**\n\n* **GitHub Dashboard:** The user is logged into their GitHub account and is viewing their dashboard.\n* **Copilot Interaction:**  The \"Ask Copilot\" section is visible, suggesting the user is interacting with GitHub Copilot, an AI pair programmer.  A loading indicator (\"One moment please...\") is displayed, indicating an ongoing process.\n* **Explore Repositories:**  A section displays a list of suggested repositories.  This suggests a personalized feed based on the user's activity or interests.\n* **Dark Mode:** The interface is in dark mode.\n* **Loading Indicator:** A circular loading icon is present, suggesting a task is in progress.\n\nIn short, the user has requested some action from GitHub Copilot and is now waiting for the response while viewing their personalized repository suggestions.\n"
+    "llm_description": "The user is browsing the file structure of a GitHub repository.\n"
   },
   {
     "timestamp": 18.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0018.jpg",
-    "llm_description": "The user is viewing their GitHub Dashboard.  The screen shows the \"Home\" section with a loading indicator (\"One moment please...\") while apparently processing a request (possibly related to \"Interpret an architecture diagram\" or \"Create a profile README for me\").  The \"Feed\" section displays recent GitHub activity, and the \"Explore repositories\" section lists some of the user's repositories.  No specific action is currently being performed by the user besides viewing the dashboard; the loading screen suggests a recent action initiated by them."
+    "llm_description": "The screen shows a GitHub repository page for a Python project.  The user has likely just finished a task, indicated by the message \"Hey! It's done.\"\n"
   },
   {
     "timestamp": 19.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0019.jpg",
-    "llm_description": "The user is viewing their GitHub dashboard.  The screen shows their top repositories on the left, recent activity in the bottom left, and trending repositories, along with suggestions to \"Interpret an architecture diagram\" and \"Create a profile README for me\" in the center. On the right-hand side, the screen displays recent changes to GitHub and suggestions for repositories to explore.  The user has not interacted with any elements on the screen beyond navigating to this dashboard view."
+    "llm_description": "The screen shows a GitHub repository page displaying the repository's files and offering options to create releases and publish packages.\n"
   },
   {
     "timestamp": 20.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0020.jpg",
-    "llm_description": "The user is viewing their GitHub dashboard.  The screen shows a list of the user's top repositories on the left, along with recent activity.  The central section displays trending repositories, with prominent features suggesting to \"interpret an architecture diagram\" or \"create a profile README.\"  The right side shows the latest changes on GitHub and a selection of repositories to explore.  There is no active user action in progress; it's a static view of the GitHub dashboard.\n"
+    "llm_description": "The screen shows a GitHub repository page for a Python project.  The user has likely just completed some work, as indicated by the message \"Hey! It's done.\"\n"
   },
   {
     "timestamp": 21.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0021.jpg",
-    "llm_description": "Here's a description of the user action and screen state in the provided image:\n\n**User Action:** The user is likely browsing their GitHub dashboard.  There's no direct indication of a specific recent action, but the user is viewing various repositories, both their own and trending ones. They may be researching projects or exploring new tools, as evidenced by the examination of repository descriptions.\n\n**Screen State:**\n\n* **GitHub Dashboard:** The user is on their GitHub dashboard, showcasing both their repositories and trending projects.\n* **Top Repositories Section:**  A list of the user's repositories is displayed, allowing for easy access to their projects.\n* **Recent Activity Section:**  Displays recent activity on the user's account, such as pull requests or other interactions.\n* **Home Section (Top Right):**  This section presents options for using GitHub Copilot, such as interpreting architecture diagrams or generating READMEs.\n* **Feed Section (Center):** Presents trending repositories with brief descriptions and statistics (stars, language used).\n* **Latest Changes Section (Right):** Shows recent updates and improvements to GitHub features.\n* **Explore Repositories Section:** Lists repositories from other users, potentially recommended based on user activity or trends.\n* **Dark Mode:**  The GitHub interface is in dark mode.\n* **No active selection:** The user hasn't directly selected any specific item, indicating a browsing state.\n\n\nIn short, the image depicts a user actively exploring GitHub, reviewing their own projects, and checking for new or trending repositories.  The user interface is cleanly presented, in dark mode, and organized for efficient navigation.\n"
+    "llm_description": "The screen shows a GitHub repository page displaying a README file; the user is likely reviewing or editing the file's content.\n"
   },
   {
     "timestamp": 22.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0022.jpg",
-    "llm_description": "The user is viewing their GitHub dashboard.  The screen shows a list of their own repositories under \"Top repositories,\" some recent activity, and trending repositories.  The user is also viewing a feed of recent changes and exploring other repositories.  There is no indication of any specific user action taking place in the image; it's simply a screenshot of the dashboard.\n"
+    "llm_description": "The screen shows a GitHub repository page displaying a README file that has been updated; the user has likely finished editing it.\n"
   },
   {
     "timestamp": 23.0,
     "user_activity": "User action detected",
     "screen_info": "Screen state from frame_0023.jpg",
-    "llm_description": "The user is viewing their GitHub dashboard.  The mouse cursor is hovering over an item in the \"Latest changes\" section, specifically the entry about improvements to C++ code completions in Visual Studio Code.  The screen displays various repositories, recent activity, and options for interacting with Copilot.  No specific user action beyond hovering the cursor is apparent in the image.\n"
+    "llm_description": "The screen shows a GitHub page loading.\n"
+  },
+  {
+    "timestamp": 24.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0024.jpg",
+    "llm_description": "The user is editing a README file in a GitHub editor.  The screen shows a markdown editor with the file's content.\n"
+  },
+  {
+    "timestamp": 25.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0025.jpg",
+    "llm_description": "The user is editing a README file on GitHub.  The screen shows a text editor with the file's content.\n"
+  },
+  {
+    "timestamp": 26.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0026.jpg",
+    "llm_description": "The user is editing a README file on GitHub.  The screen shows a code editor with a markdown file.\n"
+  },
+  {
+    "timestamp": 27.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0027.jpg",
+    "llm_description": "The user is editing a README file, with the option to commit or cancel changes.\n"
+  },
+  {
+    "timestamp": 28.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0028.jpg",
+    "llm_description": "The user is editing a README file on GitHub.\n"
+  },
+  {
+    "timestamp": 29.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0029.jpg",
+    "llm_description": "The user is editing a README file in a GitHub repository.  The screen shows a code editor with a partially-written markdown file.\n"
+  },
+  {
+    "timestamp": 30.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0030.jpg",
+    "llm_description": "The user is editing a README file, specifically typing text.  The screen shows a code editor with options to commit or cancel changes.\n"
+  },
+  {
+    "timestamp": 31.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0031.jpg",
+    "llm_description": "The user is editing a README file on GitHub.\n"
+  },
+  {
+    "timestamp": 32.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0032.jpg",
+    "llm_description": "The user is editing a README.md file, and the screen shows a code editor with a partially-written markdown file.\n"
+  },
+  {
+    "timestamp": 33.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0033.jpg",
+    "llm_description": "The user is editing a README file and is about to commit changes.\n"
+  },
+  {
+    "timestamp": 34.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0034.jpg",
+    "llm_description": "The user is writing a commit message and description for changes to a README file.  The screen shows a commit changes dialog box.\n"
+  },
+  {
+    "timestamp": 35.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0035.jpg",
+    "llm_description": "The user is about to commit changes to a README file, having written a commit message and description.\n"
+  },
+  {
+    "timestamp": 36.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0036.jpg",
+    "llm_description": "The user is committing changes to a README file, providing a commit message and extended description.  The screen shows a commit changes dialog.\n"
+  },
+  {
+    "timestamp": 37.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0037.jpg",
+    "llm_description": "The user is writing a commit message and extended description for changes to a README file on GitHub.  The screen shows a commit changes dialog.\n"
+  },
+  {
+    "timestamp": 38.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0038.jpg",
+    "llm_description": "The user is editing a README file on GitHub.\n"
+  },
+  {
+    "timestamp": 39.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0039.jpg",
+    "llm_description": "The user is viewing a README file in a GitHub repository.\n"
+  },
+  {
+    "timestamp": 40.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0040.jpg",
+    "llm_description": "The user is editing a README.md file on GitHub.  The screen shows a code preview.\n"
+  },
+  {
+    "timestamp": 41.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0041.jpg",
+    "llm_description": "The user is viewing and editing a README.md file on GitHub.\n"
+  },
+  {
+    "timestamp": 42.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0042.jpg",
+    "llm_description": "The user is editing a README.md file on GitHub.  The screen shows a preview of the file's contents.\n"
+  },
+  {
+    "timestamp": 43.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0043.jpg",
+    "llm_description": "The user is editing a README.md file on GitHub.  The screen shows a code preview.\n"
+  },
+  {
+    "timestamp": 44.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0044.jpg",
+    "llm_description": "The user is viewing a README file on GitHub.\n"
+  },
+  {
+    "timestamp": 45.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0045.jpg",
+    "llm_description": "The screen shows a GitHub repository's README file in preview mode; the user is viewing the file's content.\n"
+  },
+  {
+    "timestamp": 46.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0046.jpg",
+    "llm_description": "The user is editing a README.md file on GitHub.\n"
+  },
+  {
+    "timestamp": 47.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0047.jpg",
+    "llm_description": "The user is viewing and potentially editing a README file on GitHub.  The screen shows a code preview of the README.\n"
+  },
+  {
+    "timestamp": 48.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0048.jpg",
+    "llm_description": "The screen shows a GitHub code preview of a README file.\n"
+  },
+  {
+    "timestamp": 49.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0049.jpg",
+    "llm_description": "The user is viewing a README file's contents on GitHub.\n"
+  },
+  {
+    "timestamp": 50.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0050.jpg",
+    "llm_description": "The screen shows a Google Doc outlining steps for a user action recording task.  The user is reading instructions.\n"
+  },
+  {
+    "timestamp": 51.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0051.jpg",
+    "llm_description": "The screen shows a Google Doc outlining steps for a user action recording task.\n"
+  },
+  {
+    "timestamp": 52.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0052.jpg",
+    "llm_description": "The screen shows a Google Doc outlining steps for a user action recording task.  The user is reading instructions.\n"
+  },
+  {
+    "timestamp": 53.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0053.jpg",
+    "llm_description": "The screen shows a Google Doc outlining steps for a user action recording task.  The user will be following the steps to record a video of themselves performing actions on a website.\n"
+  },
+  {
+    "timestamp": 54.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0054.jpg",
+    "llm_description": "The screen shows a Google Doc outlining steps for a user action recording task.  The user is reading instructions.\n"
+  },
+  {
+    "timestamp": 55.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0055.jpg",
+    "llm_description": "The screen shows a Google Doc outlining steps for a user action recording task.\n"
+  },
+  {
+    "timestamp": 56.0,
+    "user_activity": "User action detected",
+    "screen_info": "Screen state from frame_0056.jpg",
+    "llm_description": "The screen shows a Google Doc outlining steps for a user action recording task.  The user will be recording a video of themselves performing actions on a website.\n"
   }
 ]

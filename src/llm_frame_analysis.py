@@ -13,7 +13,7 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 def analyze_frame_with_gemini(image_path):
     image = Image.open(image_path)
     response = model.generate_content([
-        "Describe the user action and screen state in this image.",
+        "Briefly describe the key user action and the most important aspect of the screen state in this image. Keep it concise and focus on what's immediately relevant. For example: 'The user is typing in a search bar.', or 'The screen shows a login page.'",
         image
     ])
     return response.text
